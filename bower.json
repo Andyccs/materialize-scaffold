@@ -1,0 +1,21 @@
+{
+  "name": "materialize-scaffold",
+  "description": "Scaffolding for materialize.css",
+  "main": "dist/index.html",
+  "authors": [
+    "Andyccs <andychong2@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6"
+  }
+}
