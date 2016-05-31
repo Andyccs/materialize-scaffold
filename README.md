@@ -10,11 +10,9 @@ This project provides a scaffold using [Gulp](http://gulpjs.com) for build autom
 
 # Getting Start
 
-
 We install all dependencies, compiles all scripts, css, images, and HTML to `dist/` folder. Then, we open the `dist/index.html` in our favorite browser:
 
 ```Shell
 $ npm installl
-$ npm run gulp
-$ open dist/index.html
+$ npm start
 ```
